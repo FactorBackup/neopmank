@@ -1,4 +1,5 @@
 Unread
+Daniel Lee Fix
 ======
 
 Ruby gem to manage read/unread status of ActiveRecord objects - and it's fast.
